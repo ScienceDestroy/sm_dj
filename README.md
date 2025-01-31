@@ -1,6 +1,6 @@
 <h1>sm_dj</h1>
-<a href="https://ibb.co/r2kFv6Sf"><img src="https://i.ibb.co/GQ7nF2L3/Desktop-2.png" alt="Desktop-2" border="0"></a>
 
+<a href="https://ibb.co/r2kFv6Sf"><img src="https://i.ibb.co/GQ7nF2L3/Desktop-2.png" alt="Desktop-2" border="0"></a>
 
 <h1>dependencies</h1>
 
