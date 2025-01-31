@@ -11,8 +11,9 @@
 
 <h1>how to install</h1>
 
-drag and drop ```xsound``` and ```sm_dj``` inside your ```resources``` folder
+- drag and drop ```xsound``` and ```sm_dj``` inside your ```resources``` folder
 
+- ensure resources
 ```
 ensure xsound
 ensure sm_dj
