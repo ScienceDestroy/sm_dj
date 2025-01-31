@@ -2,7 +2,8 @@
 
 <h1>dependencies</h1>
 
-<i>https://github.com/Xogy/xsound</i>
+qb-core
+xsound <i>https://github.com/Xogy/xsound</i>
 
 <h1>how to install</h1>
 
