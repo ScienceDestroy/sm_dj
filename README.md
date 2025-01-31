@@ -6,7 +6,8 @@
 
 ```qb-core```
 <br>
-xsound <i>https://github.com/Xogy/xsound</i>
+```xsound``` 
+<i>https://github.com/Xogy/xsound</i>
 
 <h1>how to install</h1>
 
