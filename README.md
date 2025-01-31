@@ -11,10 +11,13 @@
 
 <h1>how to install</h1>
 
-drag and drop ```xsound``` inside your ```resources``` folder <br><br>
-ensure xsound inside your config ```ensure xsound``` <br><br>
-drag and drop ```sm_dj``` inside your ```resources``` folder <br><br>
-ensure ```sm_dj``` under xsound ```ensure sm_dj``` <br>
+drag and drop ```xsound``` and ```sm_dj``` inside your ```resources``` folder
+
+```
+ensure xsound
+ensure sm_dj
+```
+
 
 <h1>support & more</h1>
 our discord link: https://discord.gg/rcP5GV3pAs
