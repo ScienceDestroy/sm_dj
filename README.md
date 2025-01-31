@@ -11,9 +11,9 @@
 
 <h1>how to install</h1>
 
-install xsound and ensur it ```ensure xsound```
-drag and drop ```sm_dj``` inside your ```resources``` folder
-add under xsound ```ensure sm_dj```
+install xsound and ensur it ```ensure xsound``` <br>
+drag and drop ```sm_dj``` inside your ```resources``` folder <br>
+add under xsound ```ensure sm_dj``` <br>
 
 <h1>support & more</h1>
 our discord link: https://discord.gg/rcP5GV3pAs
